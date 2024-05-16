@@ -1,0 +1,12 @@
+.well-known
+wp-content/uploads
+wp-content/upgrade-temp-backup
+wp-content/themes/index.php
+wp-content/themes/twentytwentythree
+wp-content/themes/twentytwentytwo
+wp-content/themes/twentytwentyone
+wp-content/themes/genesis-block-theme
+wp-content/plugins
+wp-content/mu-plugins
+wp-content/languages
+wp-includes

@@ -1,0 +1,7 @@
+{
+    "require": {
+        "endroid/qr-code": "^5.0",
+        "setasign/fpdf": "^1.8",
+        "getbrevo/brevo-php": "^1.0"
+    }
+}
